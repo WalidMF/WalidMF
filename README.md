@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src=""  />
+  <img width="100%" src="https://github.com/WalidMF/WalidMF/blob/main/profile-cover3.png"  />
 </div>
 
 ###
@@ -40,7 +40,7 @@
   I'm Walid Mostafa from Egypt
   <br>
   <br> - 📚 I have a bachelor's degree in computer science and education
-  <br> - ⚡ I have a certificate from ITI Institute in "full-stack web development using PHP" track
+  <br> - ⚡ I have a certificate from ITI Institute in "full-stack web development using php" track
   <br> - 🔭 I work as a freelancer in web development
 </p>
 
