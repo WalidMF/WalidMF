@@ -90,10 +90,6 @@
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="60" width="30px" alt="wordpress logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=ps" height="60" width="30px" alt="adobephotoshop logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="60" width="30px" alt="vscode logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="60" width="30px" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -118,12 +114,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WalidMF&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" width="100%" alt="languages graph"  />
 </div>
 
-###
 
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=WalidMF&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=5&order=3" width="100%" alt="streak graph"  />
-</div>
 
 ###
