@@ -57,8 +57,6 @@
   <img width="25" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" width="30px" alt="html5 logo" />
   <img width="25" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="60" width="30px" alt="css3 logo"  />
-  <img width="25" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="60" width="30px"alt="bootstrap logo"  />
   <img width="25" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="60" width="30px" alt="javascript logo"  />
@@ -91,22 +89,6 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=ps" height="60" width="30px" alt="adobephotoshop logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">💻 My Stats</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WalidMF&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" width="100%" alt="stats graph"  />
-</div>
-
-###
 
 
 
